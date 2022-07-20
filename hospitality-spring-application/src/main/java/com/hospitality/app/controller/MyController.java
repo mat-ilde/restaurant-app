@@ -12,9 +12,9 @@ import java.time.LocalDateTime;
 
 @RestController
 public class MyController {
-	@GetMapping("/hello")   
+	@GetMapping("/new")   
 	public String hello()   
 	{  
-		return "Hello javaTpoint";  
+		return "Hello mmg";  
 	}  
 }
