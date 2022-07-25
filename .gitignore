@@ -40,3 +40,4 @@ bin
 .springBeans
 spring-*/src/main/java/META-INF/MANIFEST.MF
 
+/.metadata/
